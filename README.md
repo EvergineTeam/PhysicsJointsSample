@@ -1,6 +1,6 @@
 # Physics Joints Sample
 
-This sample shows the different types of physics joints that you can use Evergine to enhance your physics simulations.
+This sample shows the different types of physics joints that you can use Evergine to enhance your simulations.
 
 ![alt Screenshot](Screenshots/screenshots01.jpg)
 ![alt Screenshot](Screenshots/screenshots02.jpg)

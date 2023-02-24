@@ -1,33 +1,22 @@
-# PhysicsJointsSample
+# Physics Joints Sample
 
-## Introduction
+This sample shows the different types of physics joints that you can use Evergine to enhance your physics simulations.
 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.
+![alt Screenshot](Screenshots/screenshots01.jpg)
+![alt Screenshot](Screenshots/screenshots02.jpg)
 
-## Getting Started
+## Build and Run
+- Required Visual Studio 2022 with .NET6 support
 
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
+### How to use
 
-1. Installation process
-2. Software dependencies
-3. Latest releases
-4. API references
-
-## Build and Test
-
-TODO: Describe and show how to build your code and run the tests.
-
-## Contribute
-
-TODO: Explain how other users and developers can contribute to make your code better.
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops).
-
+ * **Mouse Drag:** Move physics bodies.
+  
 ----
-Powered by **[Evergine](http://www.evergine.com)**
+Powered by **[Evergine](https://evergine.com)**
 
 LET'S CONNECT!
 
-- [Youtube](https://www.youtube.com/subscription_center?add_user=EvergineChannel)
+- [Youtube](https://www.youtube.com/channel/UCpA-X92rxM0OuywdVcir9mA)
 - [Twitter](https://twitter.com/EvergineTeam)
-- [Blog](http://geeks.ms/evergineteam/)
+- [News](https://evergine.com/news/)

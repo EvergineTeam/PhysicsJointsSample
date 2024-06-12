@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using BulletSharp;
 using Evergine.Framework;
-using Evergine.Framework.Graphics;
 using Evergine.Framework.Physics3D;
 
 namespace PhysicsJointsSample

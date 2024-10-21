@@ -1,9 +1,9 @@
 using Evergine.Common.Graphics;
 using Evergine.Common.Helpers;
+using Evergine.Forms;
 using Evergine.Framework;
 using Evergine.Framework.Graphics;
 using Evergine.Framework.Services;
-using Evergine.Platform;
 using System;
 using System.Diagnostics;
 
@@ -39,8 +39,8 @@ namespace PhysicsJointsSample.Windows
             }
             else
             {
-                var handle = Win32API.GetConsoleWindow();
-                Win32API.ShowWindow(handle, 0);
+                var handle = Win32Native.GetConsoleWindow();
+                Win32Native.ShowWindow(handle, false);
             }
 
             // Create app
